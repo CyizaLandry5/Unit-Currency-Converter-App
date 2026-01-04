@@ -4,9 +4,15 @@ A Python-based app that converts units and currencies, fetching real-time exchan
 
 # 💱 Currency Converter
 
-**Developer:** mpayimana cyiza landry  
-**Role:** Senior Software Engineer  
-**Versions:** C# (Unity) & Python
+<p align="center">
+  <!-- 👤 PROFILE PICTURE PLACEHOLDER -->
+  <img src="cyiza.png" width="120" style="border-radius:50%" />
+</p>
+
+<p align="center">
+  <b>Mpayimana Cyiza Landry</b><br/>
+  Senior Software Engineer
+</p>
 
 ---
 
@@ -19,7 +25,7 @@ Multi-platform currency converter with real-time exchange rates using ExchangeRa
 
 ### Python Version
 ```bash
-git clone https://github.com/yourusername/currency-converter.git
+git clone https://github.com/CyizaLandry5/Unit-Currency-Converter-App.git
 cd currency-converter/python
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
